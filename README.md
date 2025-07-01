@@ -1,4 +1,4 @@
-##### 1. Create Pokemon card Generator
+## 1. Create Pokemon card Generator
 The-Pokémon
 Your task is to design and implement an application that display Pokémon Cards.
 
@@ -19,10 +19,15 @@ User should also be able to add custom colors to the color panel.
 Don't copy UI as it is, only take reference from it.
 
 
-##### 3. Form-Builder
+## 3. Form-Builder
 
 Your task is to a form builder that allows users to add different types of input fields dynamically. Include options for text inputs, checkboxes, and radio buttons. Each added field should be displayed in a preview area.
 
 The UI should resemble the example shown below...
 
 Don't copy UI as it is, only take reference from it.
+
+
+## 4. cat-info-app
+
+build a application where user getting random cat info. whenever clicks generate. use any free API available in the internet.
