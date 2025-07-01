@@ -1,0 +1,24 @@
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-div button{
+    padding: 15px 30px;
+    font-size:16px;
+    color: white;
+    background-color:#0b5cff;
+    border-radius: 25px;
+    border: 0rem;
+}
+
+.fetch-details{
+    border-radius: 5px;
+    background-color: aqua;
+    margin: 50px 500px auto 500px;
+    padding: 50px 100px;
+    font-size: larger;
+
+}
